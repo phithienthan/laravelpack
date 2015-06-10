@@ -1,0 +1,2 @@
+# laravelpack
+Laravel sample package
