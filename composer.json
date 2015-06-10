@@ -1,0 +1,14 @@
+{
+    "name": "sample/simple",
+    "description": "try to create sample package",
+    "type": "laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Dang Quyet",
+            "email": "ndquyet@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
