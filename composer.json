@@ -1,7 +1,6 @@
 {
     "name": "sample/simple",
     "description": "try to create sample package",
-    "type": "laravel_package",
     "license": "MIT",
     "authors": [
         {
